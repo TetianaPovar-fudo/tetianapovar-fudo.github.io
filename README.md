@@ -1,3 +1,3 @@
-# tetianapovar-fudo.github.io-
+# Fudo Documentation
 
 It's a cool documentation
